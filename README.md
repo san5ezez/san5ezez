@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=san5ezez&theme=dark&locale=ru&timezone=%2B5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <div align="center">
   <h1>Привет, я san4ezez👋</h1>
   <p><b>Python & C++ разработчик • Android & Cloudflare и SDR</b></p>
